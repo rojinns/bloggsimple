@@ -1,0 +1,4 @@
+extra hrefs
+<!-- href="{{ action('ArticlesController@show',[$article->id]) }}" -->
+	<!-- href="{{ url('/articles', $article->id) }} " -->
+	<!-- href="{{ route('article_path') }}" -->
